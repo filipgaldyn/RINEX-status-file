@@ -1,5 +1,6 @@
 # RINEX-status-file
 <h2>Generate a status file based on RINEX v3 from IGS MGEX stations</h2><br>
+<<<<<<< HEAD
 <li>main file to run script: main.py </li>
 <li>dataset uses in software: data_to_script (MGEX list, satellite list) </li>
 <li>folder to generated status files: download_data</li>
