@@ -1,0 +1,1 @@
+folder to download data about availability and statistics
