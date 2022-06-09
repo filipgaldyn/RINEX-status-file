@@ -5,7 +5,7 @@
 <li>dataset uses in software: data_to_script (MGEX list, satellite list) </li>
 <li>folder to generated status files: download_data</li>
 <h3>Processing diagram</h3><br>
-<img src="download_scheme.png" alt="download_scheme" width="600" height="400"><br>
+<img src="download_scheme.png" alt="download_scheme" width="300" height="400"><br>
 <h4>Script export text files with:(csv) files:</h4>
 <li>daily satellite report for each PRN per day</li>
 <li>daily quality report for individual signal per day</li>
